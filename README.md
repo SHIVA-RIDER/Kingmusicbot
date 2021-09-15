@@ -1,8 +1,8 @@
-<h2 align="centre">🎵 VEEZ MUSIC BOT</h2>
+<h2 align="centre">🎵 KING MUSIC BOT</h2>
 
 ### Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
-<p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://telegra.ph/file/8bf3d62837cb59c3f8e7f.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/svking_vcbot"><img src="https://telegra.ph/file/bf607b578cd8fe43250ea.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/levina-lab/VeezMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
@@ -128,4 +128,4 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - [TeamDaisyX](https://github.com/TeamDaisyX) for base code
 
 ### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/hell_chatting77"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kingstyle01"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
